@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 /root
+=======
+cd /root 
+>>>>>>> cc69264e8cc91ebbf8e0ac67c7e3e16696f69e42
